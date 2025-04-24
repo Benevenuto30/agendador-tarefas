@@ -1,4 +1,4 @@
-package com.benevenuto.agendador_tarefas;
+package com.benevenuto.agendadortarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
