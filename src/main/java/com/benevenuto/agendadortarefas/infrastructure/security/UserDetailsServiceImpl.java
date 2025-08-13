@@ -1,7 +1,7 @@
 package com.benevenuto.agendadortarefas.infrastructure.security;
 
 import com.benevenuto.agendadortarefas.business.dto.UsuarioDTO;
-import com.benevenuto.agendadortarefas.infrastructure.client.UsuarioClient;
+import com.benevenuto.agendadortarefas.infrastructure.security.client.UsuarioClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
